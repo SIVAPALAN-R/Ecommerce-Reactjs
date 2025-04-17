@@ -17,7 +17,7 @@ This is my first React.js project — a fully responsive e-commerce web app powe
 
 ## 🚀 Getting Started
 1. Clone the repo  
-   `git clone https://github.com/your-username/ecommerce-react-app.git`
+   `git clone https://github.com/SIVAPALAN-R/ecommerce-react-app.git`
 
 2. Navigate to the project  
    `cd ecommerce-react-app`
@@ -29,10 +29,13 @@ This is my first React.js project — a fully responsive e-commerce web app powe
    `npm start`
 
 ## 📷 Preview
-Add your screenshots here for better visual representation.
+![Home](https://github.com/user-attachments/assets/e97ff968-3bb4-45b4-8538-11d1c4b484f7)
+![Prodects](https://github.com/user-attachments/assets/c8637720-31ae-44f8-a2ea-d901de0d5bf1)
+
+
 
 ---
 
 📌 **Author:** Siva Regunath  
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-📫 **Email:** your.email@example.com
+🔗 **LinkedIn:** [(https://www.linkedin.com/in/sivapalanr/)](#)  
+📫 **Email:** sivapalan.r8703@gmail.com
