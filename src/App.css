@@ -1,0 +1,144 @@
+/* header css */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  background-color: rgb(68, 64, 64);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+/* Left: Logo image */
+.left {
+  flex: 0 0 auto;
+}
+
+.logo-img {
+  height: 40px;
+}
+
+/* Center: ShopEase text */
+.center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.logo-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2563eb;
+}
+
+/* Right: Buttons */
+.right {
+  flex: 0 0 auto;
+  display: flex;
+  gap: 12px;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.signin {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.signin:hover {
+  background-color: #2563eb;
+}
+
+.signout {
+  background-color: #e5e7eb;
+  color: #111827;
+}
+
+.signout:hover {
+  background-color: #d1d5db;
+}
+
+ /* header css */
+ .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  background-color: rgb(68, 64, 64);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
+}
+
+/* Left: Logo image */
+.left {
+  flex: 0 0 auto;
+}
+
+.logo-img {
+  height: 40px;
+}
+
+/* Center: ShopEase text */
+.center {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.logo-text {
+  font-size: 24px;
+  font-weight: bold;
+  color: #2563eb;
+}
+
+/* Right: Buttons */
+.right {
+  flex: 0 0 auto;
+  display: flex;
+  gap: 12px;
+}
+
+.btn {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.signin {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.signin:hover {
+  background-color: #2563eb;
+}
+
+.signout {
+  background-color: #e5e7eb;
+  color: #111827;
+}
+
+.signout:hover {
+  background-color: #d1d5db;
+}
+
+.video-container {
+  position: relative;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .video-container video {
+    max-height: 200px;
+  }
+}
